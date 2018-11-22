@@ -7,9 +7,8 @@ public class CalculationApp {
 	}
 
 	public int square(int x)
-	{	//dummy vulnerability
+	{	//a dummy vulnerability
 		
-		int z;
 		return x*x;
 	}
 	
