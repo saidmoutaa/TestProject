@@ -1,5 +1,4 @@
-package Testing;
-
+package testing;
 public class CalculationApp {
 
 	public int square(int x)
