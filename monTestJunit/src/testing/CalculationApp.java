@@ -1,8 +1,15 @@
 package testing;
 public class CalculationApp {
+	
+	public static void main(String[] args) {
+		
+		System.out.println("this app does some dummy maths");
+	}
 
 	public int square(int x)
-	{
+	{	//dummy vulnerability
+		
+		int z;
 		return x*x;
 	}
 	
