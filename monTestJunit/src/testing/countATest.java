@@ -1,12 +1,13 @@
 package testing;
 
 import static org.junit.Assert.assertEquals;
+
 import org.junit.Test;
 
-class countATest {
+public class countATest {
 
 	@Test
-	void test() {
+	public void test() {
 		CalculationApp myApp=new CalculationApp();
 		int output1=myApp.countA("Friday");
 		int output2=myApp.countA("Saturday");
