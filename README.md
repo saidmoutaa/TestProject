@@ -1,3 +1,3 @@
-#About
+#About this project
 
-This is a demo project for Automating tests 
+This is a demo project for Automating tests. 
