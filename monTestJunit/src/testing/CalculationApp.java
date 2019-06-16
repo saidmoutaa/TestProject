@@ -3,7 +3,7 @@ public class CalculationApp {
 	
 	public static void main(String[] args) {
 		
-		System.out.println("this app does some dummy maths");
+		System.out.println("this app does some dummy maths!");
 	}
 
 	public int square(int x)
